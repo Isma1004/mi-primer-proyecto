@@ -1,0 +1,13 @@
+// 1. Declaramos las variables (nuestra memoria)
+let cuenta = 0;
+
+// 2. Buscamos los elementos en el HTML por su ID
+const boton = document.getElementById('miBoton');
+const etiquetaCuenta = document.getElementById('contador');
+
+// 3. Escuchamos el evento "click"
+boton.addEventListener('click', () => {
+    cuenta = cuenta + 1; // Aumentamos la cuenta
+    etiquetaCuenta.innerText = cuenta; // Actualizamos el HTML con el nuevo valor
+    console.log("El botón ha sido presionado");
+});
