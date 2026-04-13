@@ -2,7 +2,7 @@
 let cuenta = 0;
 
 // 2. Buscamos los elementos en el HTML por su ID
-const boton = document.getElementById('miBoton');
+const boton = document.getElementById('miboton');
 const etiquetaCuenta = document.getElementById('contador');
 
 // 3. Escuchamos el evento "click"

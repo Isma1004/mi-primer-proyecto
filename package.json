@@ -1,0 +1,24 @@
+{
+  "name": "mi-primer-proyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isma1004/mi-primer-proyecto.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Isma1004/mi-primer-proyecto/issues"
+  },
+  "homepage": "https://github.com/Isma1004/mi-primer-proyecto#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
