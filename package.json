@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Isma1004/mi-primer-proyecto#readme",
   "dependencies": {
+    "ejs": "^5.0.2",
     "express": "^5.2.1"
   }
 }
